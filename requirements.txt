@@ -1,0 +1,11 @@
+# ===== HỆ THỐNG 5 AI TRADE VÀNG =====
+# Cài đặt: pip install -r requirements.txt
+
+openai>=1.30.0
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0            # Thư viện chỉ báo kỹ thuật (RSI, MACD, EMA, Bollinger...)
+python-dotenv>=1.0.0
+requests>=2.31.0
+apscheduler>=3.10.0   # Lập lịch chạy tự động
